@@ -21,5 +21,9 @@ tag: 百日随笔
 
 * 实行读---测培优方式以来第一个周六。正常休息，难得一歇。
 * 顺利解决电脑开游戏重启问题（电源故障）
+---
+<span style="color:skyblue">少年，启航！</span>
+
+![周结](/images/posts/firstweek.jpg)
 
 
