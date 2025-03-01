@@ -6,16 +6,16 @@ description: 欺不欺，且问心。
 avatarTitle: 寻丠
 # 头像里面的描述
 avatarDesc: 凭些酸腐气，胡落两三言。
-url: "http://leopardpan.cn"
+url: "https://github.com/hdbqx"
 
 # 博客是否自动生成目录，false为不生成
 enableToc: true
 
 # Comment
-comment:
-    # livere: MTAyMC81MDk5NC8yNzQ3Ng  # https://www.livere.com
-    disqus: leopard
-    # uyan: 2143225  # 有言id,登录有言官网申请
+# comment:
+#     # livere: MTAyMC81MDk5NC8yNzQ3Ng  # https://www.livere.com
+#     disqus: leopard
+#     # uyan: 2143225  # 有言id,登录有言官网申请
 
 
 # 百度统计 
