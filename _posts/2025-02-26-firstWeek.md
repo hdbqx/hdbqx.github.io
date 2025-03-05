@@ -3,7 +3,7 @@ layout: post
 title: "第一周"
 date: 2025-02-27 
 description: "100-98"
-tag: [百日随笔,谁]
+tag: 百日随笔
 ---  
 
 # <span style="color:skyblue">百日誓师</span>
